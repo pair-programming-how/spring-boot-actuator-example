@@ -1,0 +1,7 @@
+server:
+  port: ${PORT}
+
+info:
+  app:
+    name: spring-boot-actuator-example
+    description: Demo project for Spring Boot Actuator
